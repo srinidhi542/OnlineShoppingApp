@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Online Shopping Management System</title>
+    <title>Online Shopping Management System swiggy </title>
 
     <style>
         * {
